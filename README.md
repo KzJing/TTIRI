@@ -9,7 +9,7 @@ For the configuration of the python environment it is recommended to refer to th
 
 ## Citation
 If you find our work useful, please cite our [paper](https://doi.org/10.1093/bib/bbaf260) using the following:
-'''bash
+```bash
 @article{jing2025ttiri,
     author = {Jing, Kaizhuang and Wei, Tingchu and Gu, Xuedie and Lin, Guoliang and Liu, Lin and Luo, Jing},
     title = {Deep learning reveals determinants of transcriptional infidelity at nucleotide resolution in the allopolyploid line by goldfish and common carp hybrids},
@@ -24,6 +24,6 @@ If you find our work useful, please cite our [paper](https://doi.org/10.1093/bib
     url = {https://doi.org/10.1093/bib/bbaf260},
     eprint = {https://academic.oup.com/bib/article-pdf/26/3/bbaf260/63441699/bbaf260.pdf},
 }
-'''
+```
 If you have any questions regarding the paper or repository contents, please feel free to contact me at: kzjing@foxmail.com
 
